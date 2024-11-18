@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangaraja-r&label=Profile%20views&color=0e75b6&style=flat" alt="rangaraja-r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangaraja-r" alt="rangaraja-r" /></a> </p>
-
 - 🔭 I’m currently working on [InOut](https://github.com/RangaRaja-R/InOut)
 
 - 🌱 I’m currently learning **Three.JS, expressJs**
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **r34rangaraja@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eDTOVCJE-xdK7sfFix7hwio_lvdwum27/view?usp=sharing](https://drive.google.com/file/d/1eDTOVCJE-xdK7sfFix7hwio_lvdwum27/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1eDTOVCJE-xdK7sfFix7hwio_lvdwum27/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangaraja-r&show_icons=true&locale=en&layout=compact" alt="rangaraja-r" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangaraja-r&show_icons=true&locale=en" alt="rangaraja-r" /></p>
 
