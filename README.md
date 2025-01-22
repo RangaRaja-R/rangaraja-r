@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangaraja-r&label=Profile%20views&color=0e75b6&style=flat" alt="rangaraja-r" /> </p>
 
-- 🔭 I’m currently working on [InOut](https://github.com/RangaRaja-R/InOut)
+- 🔭 I’m currently working on improving my [portfolio](https://rangaraja-r.github.io)
 
 - 🌱 I’m currently learning **Three.JS, expressJs**
 
